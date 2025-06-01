@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+.bg-1{
+    background-color: rgb(236, 222, 200);
+}
+
+.bg-2{
+    background-color:rgb(206, 221, 216);
+}
+
+.bg-3{
+    background-color: rgb(204, 222, 230);
+}
+
+.hero-3{
+    background-image: url(img/project-img/hero-3.webp);
+   
+    background-size: cover
+    ;
+}
+
+.box-shadow{
+    box-shadow: rgba(50, 50, 93, 0.25)
+     0px 50px 100px -20px, rgba(0, 0, 0, 0.3)
+      0px 30px 60px -30px, rgba(10, 37, 64, 0.35)
+       0px -2px 6px 0px inset;
+}
+
+.aaaa:hover{
+    border-radius: 0px;
+}
